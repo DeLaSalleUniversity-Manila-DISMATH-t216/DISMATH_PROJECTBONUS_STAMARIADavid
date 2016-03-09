@@ -8,7 +8,7 @@
 ![](linear.png)
 
 ###Binary Search Algorithm
-![](binary.jpg)
+![](binary.png)
 
 
 ##FOR BLOCKS:
