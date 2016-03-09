@@ -14,7 +14,7 @@
 ##FOR BLOCKS:
 
 ###Home 
-![block1.png]
+![][block1.png]
 
 ###Linear search
 ![](block2.png)
