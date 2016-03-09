@@ -1,15 +1,24 @@
 # DISMATH_ProjectBonus_StaMariaDavid
 
-##DESIGN
-###For Linear search
-![](linear.png)
-###For Binary search
-![](binary.png)
-<br></br>
+##FOR DESIGNS:
 
-##BLOCKS
-###For Linear search
+###Home Screen
+![](home.png)
+###Linear Search Algorithm
+![](linear.png)
+
+###Binary Search Algorithm
+![](binary.jpg)
+
+
+##FOR BLOCKS:
+
+###Home 
 ![](block1.png)
-###For Binary search
+
+###Linear search
 ![](block2.png)
-<br></br>
+
+###For Binary search
+![](block3.png)
+
