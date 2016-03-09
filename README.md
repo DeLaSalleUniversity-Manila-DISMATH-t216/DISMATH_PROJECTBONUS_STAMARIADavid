@@ -5,7 +5,7 @@
 ###Home Screen
 ![](home.png)
 ###Linear Search Algorithm
-![](linear.png)
+![](linear.jpg)
 
 ###Binary Search Algorithm
 ![](binary.png)
