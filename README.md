@@ -3,23 +3,23 @@
 ##FOR DESIGNS:
 
 ###Home Screen
-![](home.jpg)
+![](home.png)
 
 ###Linear Search Algorithm
-![](linear.jpg)
+![](linear.png)
 
 ###Binary Search Algorithm
-![](binary.jpg)
+![](binary.png)
 
 
 ##FOR BLOCKS:
 
 ###Home 
-![](block1.jpg)
+![](block1.png)
 
 ###Linear search
-![](block2.jpg)
+![](block2.png)
 
 ###For Binary search
-![](block3.jpg)
+![](block3.png)
 
